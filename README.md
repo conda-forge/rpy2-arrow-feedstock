@@ -149,6 +149,3 @@ Feedstock Maintainers
 
 * [@matthewwardrop](https://github.com/matthewwardrop/)
 
-
-<!-- dummy commit to enable rerendering -->
-
